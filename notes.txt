@@ -1,0 +1,7 @@
+path
+(path.sep)
+const {readfilesync, writefilesync} = require('fs')
+
+{flag: 'a'}--> to append into the file
+
+readfile('Path',utf8,(err,result)=>{}),writefile
